@@ -1,7 +1,6 @@
 
 /*
  * Name: Kent Adrian
- * Created Date: 2026-10-18
  * Subject: IT Programming 1
  */
 
