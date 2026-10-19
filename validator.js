@@ -4,7 +4,6 @@
  * Subject: IT Programming 1
  */
 
-// 4.1 Equality, Truthiness, and the Ternary
 
 // Check if the values are equal.
 console.log(5 == '5');            // true: same value
@@ -27,8 +26,6 @@ console.log(nickname ?? 'Guest');  // empty text
 const score = 78;
 console.log(score >= 75 ? 'PASSED' : 'FAILED');  // PASSED
 
-
-// 4.2 Console-Based Validation Logic
 
 // Store account information.
 const account = {
